@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Luiz Eduardo e sou estudante de Engenharia de Software, me desenvolvendo para atuar como Full-stack, com diversos projetos feitos e muitos ainda por construir</p>
+<p align="left">Meu nome é Luiz Eduardo e sou estudante de Engenharia de Software, me desenvolvendo para atuar como Full-stack. Atuo criando soluções inovadoras em web e automação. Integração de APIs de IA, WhatsApp e bancos de dados. Com diversos projetos feitos e muitos ainda por construir</p>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###

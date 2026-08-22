@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Me desenvolvendo para atuar como Full-stack. Atuo criando soluções em web e automação. Integração e criação de APIs de IA. Com diversos projetos feitos e muitos ainda por construir</p>
+<p align="left">Me desenvolvendo para atuar como Full-stack. Atuo criando soluções em web e automação. Integração e criação de APIs. Com diversos projetos feitos e muitos ainda por construir</p>
 
 ###
 
